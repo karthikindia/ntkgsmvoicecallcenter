@@ -4,9 +4,8 @@ Naam Tamilar Anti Corruption Call Center - Agni Siragugal
 ==========================================================
 *GSM modem module for Python*
 
-![alt text][logo]
+ (https://github.com/karthikindia/ntkgsmvoicecallcenter/blob/master/header1.png)
 
-[logo]: https://github.com/karthikindia/ntkgsmvoicecallcenter/blob/master/header1.png "நாம் தமிழர் லஞ்ச ஊழல் ஒழிப்பு பாசறை - புகார் நிலைய செயலி "
 
 python-gsmmodem is a module that allows easy control of a GSM modem attached
 to the system. It also includes a couple of useful commandline utilities for
